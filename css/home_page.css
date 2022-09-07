@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+p{
+    font-size:80px;
+    font-family: 'dokdo', cursive;
+    text-align: center;
+    color:darkgray;
+    padding-top:80px;
+}
+h3{
+    margin-left: 840px;
+    font-size: 1.5em;
+    font-family: 'yeon sung',cursive ;
+    color:darkgray;
+    padding-bottom: 20px;
+}
+body{
+    background-image: url(../images/home4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.searchbar{
+    width: 20%;
+    text-align: left;
+    margin: 0px 0px 10px 20px;
+}
+.block1{
+    float:left;
+    width:30%;
+    font-family: 'yeon sung',cursive ;
+    margin-left: 10px;
+    padding: 30px 0px 30px 20px;
+    font-size: 70px;
+    border: 0.01em solid transparent;
+    text-align: center;
+    background-color: rgba(42, 184, 177, 0.4);
+}
+.block2{
+    float:left;
+    width:30%;
+    font-family: 'yeon sung',cursive ;
+    margin-left: 10px;
+    padding: 30px 0px 30px 20px;
+    font-size: 70px;
+    border: 0.01em solid transparent;
+    text-align: center;
+    background-color: rgba(42, 184, 177, 0.4);
+}
+.block3{
+    float:left;
+    width:30%;
+    font-family: 'yeon sung',cursive ;
+    margin-left: 10px;
+    padding: 30px 0px 30px 20px;
+    font-size: 70px;
+    border: 0.01em solid transparent;
+    text-align: center;
+    background-color: rgba(42, 184, 177, 0.4);
+}
+.block1:hover{
+    background-color:rgba(0,0,0,0.5);
+    color:white;
+  
+  }
+.block2:hover{
+    background-color:rgba(0,0,0,0.5);
+    color:white;
+}
+.block3:hover{
+    background-color:rgba(0,0,0,0.5);
+    color:white;
+}

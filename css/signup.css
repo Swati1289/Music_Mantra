@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+h1{
+    font-size:3.5em ;
+    font-family:'Yeon Sung', cursive;
+    margin-left: 180px;
+    color:whitesmoke;
+}
+body{
+    background-image: url(../images/signup.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 50em;
+    
+}
+.cred{
+    width:550px;
+    margin:auto;
+    margin: 0px 0px 0px 800px;
+    background-blend-mode:screen;
+    border: .01em solid transparent;
+    height: 560px;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'dokdo',cursive;
+    padding: 25px 0px;
+    text-decoration: underline ;
+    color:;
+}
+.getin label{
+    display: block;
+    font-size: 2em;
+    color: rgb(18, 89, 129);
+    font-family: serif;
+}
+.getin input[type="button"]{
+    width:30%;
+    color: black;
+    background-color: cadetblue;
+    text-align: center;
+}
+.getin input{
+    width:90%;
+    padding: 8px ;
+    
+}
+.phone{
+    padding-bottom: 20px;
+}
+.getin label{
+    padding: 10PX;
+    font-family: 'potta one',cursive;
+}
+.email{
+    padding-bottom: 20px;
+}
+
+.button :hover{
+    background-color: black;
+    color: blanchedalmond;
+}
+.button{
+    size: 1em;
+    font-family: 'yeon sung',cursive;
+}

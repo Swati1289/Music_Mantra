@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+h1{
+    font-size:4em ;
+    font-family:'yeon sung';
+    text-align: center;
+    color:whitesmoke;
+}
+h3{
+    margin-left: 820px;
+    font-size: 2em;
+    font-family: 'yeonsung',cursive;
+    color:whitesmoke;
+}
+body{
+    background-image:url(../images/aw.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.cred{
+    width:500px;
+    margin:auto;
+    margin-top: 100px;
+    margin-left: 850px;
+    background-blend-mode:screen;
+    border: .01em solid transparent;
+    height: 270px;
+    background-color: rgba(0,0,0,0.6);
+}
+.getin{
+    padding: 8px 5px 50px 20px;
+}
+.getin label{
+    color:cadetblue;
+    display: block;
+    font-size: 1.5em;
+    font-family: 'potta one',cursive;
+}
+.getin input[type="button"]{
+    width:30%;
+    color: cadetblue;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+}
+.getin input{
+    width:90%;
+    padding: 8px ;
+}
+.phone{
+    padding-bottom: 20px;
+}
+.label{
+    padding: 10PX;
+}
+a:hover{
+    color:cornsilk;
+}
+.button:hover{
+    background-color: black;
+    color: blanchedalmond;
+}
+.button{
+    size: 1em;
+    font-family: 'potta one';
+}
+.signup a{
+    color: cadetblue;
+}
+a:hover{
+    background-color: transparent;
+    color:whitesmoke;
+}
